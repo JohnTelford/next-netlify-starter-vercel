@@ -11,5 +11,8 @@ module.exports = withMDX({
   pageExtensions: ["js", "jsx", "md", "mdx"]
 });
 
-            
+// // react strict mode
+// module.exports = {
+//   reactStrictMode: true,
+// };
           
