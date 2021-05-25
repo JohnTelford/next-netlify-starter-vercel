@@ -15,4 +15,4 @@ module.exports = withMDX({
 // module.exports = {
 //   reactStrictMode: true,
 // };
-          
+
